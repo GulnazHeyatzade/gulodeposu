@@ -1,0 +1,2 @@
+# gulodeposu
+Gulnaz bilir
